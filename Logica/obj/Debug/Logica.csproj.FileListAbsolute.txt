@@ -1,0 +1,9 @@
+C:\Users\nicol\Desktop\Api de Marvel\Logica\bin\Debug\Logica.dll
+C:\Users\nicol\Desktop\Api de Marvel\Logica\bin\Debug\Logica.pdb
+C:\Users\nicol\Desktop\Api de Marvel\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\nicol\Desktop\Api de Marvel\Logica\bin\Debug\Persistencia.dll
+C:\Users\nicol\Desktop\Api de Marvel\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\nicol\Desktop\Api de Marvel\Logica\bin\Debug\Persistencia.pdb
+C:\Users\nicol\Desktop\Api de Marvel\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\nicol\Desktop\Api de Marvel\Logica\obj\Debug\Logica.dll
+C:\Users\nicol\Desktop\Api de Marvel\Logica\obj\Debug\Logica.pdb
